@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal notes (optional - remove if you want to track them)
+# my_notes/personal/
+# my_notes/private/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# API Keys and Configs
+config.json
+secrets.json
+*.key
+
+# Large data files
+*.mp4
+*.mp3
+*.zip
+*.tar.gz

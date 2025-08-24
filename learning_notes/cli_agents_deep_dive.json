@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "url": "https://www.youtube.com/watch?v=1_twhMU9AxM",
+    "video_id": "1_twhMU9AxM",
+    "duration": "11:18",
+    "extracted_date": "2025-08-24"
+  },
+  "key_concepts": [
+    {
+      "concept": "tool",
+      "mentions": 31,
+      "example": "com/watch?v=1_twhMU9AxM\n**Language:** en\n**Duration:** 11:18\n**Total Segments:** 322\n\n---\n\n## Transcript with Timestamps\n\n\n### 0 minutes\n\n(00:00) Tools like claw code and cursor have\n\n(00:02) changed how we write code with AI."
+    },
+    {
+      "concept": "agent",
+      "mentions": 23,
+      "example": "(00:08) And this shift happened because we moved\n\n(00:10) from basic AI models to AI agents."
+    },
+    {
+      "concept": "claude code",
+      "mentions": 16,
+      "example": "Claude Code can handle it for\n\n(01:16) you."
+    },
+    {
+      "concept": "workflow",
+      "mentions": 14,
+      "example": "This opens up an\n\n(00:30) entirely new type of application that's\n\n(00:32) built on top of these powerful coding\n\n(00:34) agents that become part of your daily\n\n(00:36) workflow."
+    },
+    {
+      "concept": "CLI",
+      "mentions": 13,
+      "example": "Think of the CLI commands as\n\n(02:18) the new tools of the agent where you're\n\n(02:20) giving it the proper context to work\n\n(02:22) with."
+    },
+    {
+      "concept": "token",
+      "mentions": 6,
+      "example": "OOTH 2,\n\n(03:04) user scope tokens, even built-in tools\n\n(03:07) calling for over 100 plus apps, all\n\n(03:10) without you reinventing the wheel."
+    },
+    {
+      "concept": "AI agents",
+      "mentions": 5,
+      "example": "(00:08) And this shift happened because we moved\n\n(00:10) from basic AI models to AI agents."
+    },
+    {
+      "concept": "framework",
+      "mentions": 5,
+      "example": "It's a\n\n(04:28) framework for coding with AI agents that\n\n(04:30) guides you step by step through context\n\n(04:32) engineering."
+    },
+    {
+      "concept": "prompt",
+      "mentions": 3,
+      "example": "All you need to do is provide the\n\n(01:18) usage examples, the commands and how\n\n(01:20) they're used, descriptions, and a good\n\n(01:22) system prompt explaining how to use\n\n(01:24) them."
+    },
+    {
+      "concept": "integration",
+      "mentions": 2,
+      "example": "It's a\n\n(06:42) compact tool and I'll explain the\n\n(06:44) specific framework I used for the claude\n\n(06:46) code integration."
+    }
+  ],
+  "tools_mentioned": [],
+  "commands_shown": [
+    "each step. When I include",
+    "the command name followed by a link",
+    "its commands",
+    "them\n\n(09:50) seamlessly. When writing your PRD,",
+    "much\n\n(01:59) faster in the terminal, especially",
+    "commands directly in the terminal"
+  ],
+  "workflows": [],
+  "code_examples": [],
+  "action_items": [
+    "Try to specific agent dedicated to\n\n(02:14) that tool and actually use it in your\n\n(02:16) daily life",
+    "Try to do\n\n(02:29) that as well",
+    "Test bash commands through Claude Code",
+    "Try to Scale Kit today",
+    "Try to see that we simply call\n\n(01:10) the tool and then give it the link",
+    "Try to real agentic use case that\n\n(00:56) helps me in my daily life",
+    "Build a simple CLI tool using Click framework",
+    "Create a claude.md file for your most common workflow"
+  ],
+  "implementation_ideas": [
+    {
+      "name": "Personal Download Manager",
+      "description": "Agent that organizes downloads by type and date",
+      "difficulty": "Easy",
+      "time_estimate": "1 hour"
+    },
+    {
+      "name": "Repository Documentation Agent",
+      "description": "Automatically extract and summarize repo documentation",
+      "difficulty": "Medium",
+      "time_estimate": "2-3 hours"
+    },
+    {
+      "name": "Daily Workflow Automator",
+      "description": "Agent that handles repetitive daily tasks",
+      "difficulty": "Medium",
+      "time_estimate": "2 hours"
+    },
+    {
+      "name": "Learning Notes Organizer",
+      "description": "Automatically organize and index learning materials",
+      "difficulty": "Easy",
+      "time_estimate": "1 hour"
+    },
+    {
+      "name": "Code Snippet Manager",
+      "description": "Store and retrieve useful code snippets",
+      "difficulty": "Easy",
+      "time_estimate": "30 minutes"
+    }
+  ]
+}
